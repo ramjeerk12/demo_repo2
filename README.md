@@ -2,3 +2,4 @@
 
 Some text
 clear
+hi
